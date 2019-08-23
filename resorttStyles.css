@@ -1,0 +1,45 @@
+#pageTitle {
+  font-family : san-seriff , Comic Sans MS;
+  color: blue;
+  background-color : aqua;
+  border: 1px solid yellow;
+  text-align : center;
+  border-bottom ; none;
+}
+#q1{
+	color: blue;
+}
+#borderimg1 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(beach.png) 50 round;
+}
+
+#Amenities1{
+	color:darkblue;
+}
+
+.Amenities
+{
+	color: brown;
+}
+
+
+.WN
+{
+	color: green;
+}
+
+
+* {
+  font-family : san-seriff , Comic Sans MS;
+}
+
+.button{
+background-color: yellow;
+}
+
+.button_pink{
+	
+		background-color: pink;
+}
