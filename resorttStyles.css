@@ -18,7 +18,7 @@
 #Amenities1{
 	color:darkblue;
 }
-.body{
+body{
 text-align: center;
 }
 
@@ -45,4 +45,8 @@ background-color: yellow;
 .button_pink{
 	
 		background-color: pink;
+}
+
+ul{
+	list-style-type: none;
 }
